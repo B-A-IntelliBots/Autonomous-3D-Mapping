@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f
 # Autonomous-3D-Mapping
 This project presents the development, modeling, and experimental validation of an
 autonomous end to end indoor 3D reconstruction system using a monocular camera-
@@ -30,4 +29,4 @@ demonstrating how low-cost mobile robots can autonomously map environments
 with high spatial accuracy using only monocular vision and optimized motion
 planning.
 ## Demo Video
-Uploading 3D_reconstruction.mp4…
+https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f
