@@ -29,4 +29,5 @@ This end-to-end framework bridges control theory with practical computer vision,
 demonstrating how low-cost mobile robots can autonomously map environments
 with high spatial accuracy using only monocular vision and optimized motion
 planning.
-[![Watch the demo] Uploading 3D_reconstruction.mp4…
+## Demo Video
+Uploading 3D_reconstruction.mp4…
