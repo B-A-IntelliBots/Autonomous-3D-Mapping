@@ -30,9 +30,6 @@ with high spatial accuracy using only monocular vision and optimized motion
 planning.
 This video shows the end-to-end autonomous 3D reconstruction Process
 ## Demo Video
-<video controls>
-  <source src="https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f" type="video/mp4">
-</video>
-## Pipeline
-<img width="1530" height="556" alt="Pipeline" src="https://github.com/user-attachments/assets/889543d1-367c-475c-b36f-7b4da2a5b131" />
-
+https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f
+## Screenshot
+![](https://github.com/user-attachments/assets/889543d1-367c-475c-b36f-7b4da2a5b131)
