@@ -1,5 +1,6 @@
 
 # Autonomous-3D-Mapping
+## Overview
 This project presents the development, modeling, and experimental validation of an
 autonomous end to end indoor 3D reconstruction system using a monocular camera-
 equipped differential-drive mobile robot. The goal is to control the platform through
@@ -28,13 +29,18 @@ This end-to-end framework bridges control theory with practical computer vision,
 demonstrating how low-cost mobile robots can autonomously map environments
 with high spatial accuracy using only monocular vision and optimized motion
 planning.
-This video shows the end-to-end autonomous 3D reconstruction Process
+## Key Features
++ End-to-end autonomous 3D reconstruction of indoor environment
++ Inegrating neural network-optimized hybrid control system
++ Deploying the optimal feature extractor and matcher—DISK and LightGlue—for dense and accurate 3D point cloud generation.
 ## Demo Video
+This video shows the end-to-end autonomous 3D reconstruction Process
 https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f
-## Project Pipeline
+## Methodology
 ![](https://github.com/user-attachments/assets/889543d1-367c-475c-b36f-7b4da2a5b131)
-### 1. Setting the Discetized Path:
+### 1. Setting the Discretized Path:
 Since the control algorithm is designed for a stabilization task—that is, guiding the robot from its initial position to a target location—the first step in our project should be to define a discretized path through the relevant environment.
 ### 2. Navigating through the environment:
 This step focuses on navigating the robot through the environment to capture images of surrounding objects. The process is carried out using the control scheme described in the following repo "https://github.com/B-A-IntelliBots/AI-optimized-LQR-Lyapunov-Control-System".
-### 3. 3D reconstrution:
+### 3. 3D Reconstrution:
+This step involves constructing a 3D virtual model of the indoor environment using images captured by the robotic platform. The reconstruction process employs the ***DISK* Feature Extractor** and ***LIGHTGLUE* Feature Matcher** to achieve a highly accurate and densely detailed final output. The choice of this feature extractor–matcher combination is based on extensive comparative analysis supported by statistical metrics, as detailed in the following repository "https://github.com/B-A-IntelliBots/3D-Reconstruction".
