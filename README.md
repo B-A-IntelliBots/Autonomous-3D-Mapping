@@ -31,3 +31,5 @@ planning.
 This video shows the end-to-end autonomous 3D reconstruction Process
 ## Demo Video
 https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f
+## Pipeline
+![My Screenshot](https://github.com/user-attachments/assets/ce8fa05b-c451-4133-8b5d-6282831d8a19)
