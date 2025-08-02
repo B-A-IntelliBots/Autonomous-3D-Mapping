@@ -31,5 +31,9 @@ planning.
 This video shows the end-to-end autonomous 3D reconstruction Process
 ## Demo Video
 https://github.com/user-attachments/assets/662caa91-467a-4c62-9c5a-49453e5b212f
-## Screenshot
+## Project Pipeline
 ![](https://github.com/user-attachments/assets/889543d1-367c-475c-b36f-7b4da2a5b131)
+### 1. Setting the Discetized Path:
+Since the control algorithm is designed for a stabilization task—that is, guiding the robot from its initial position to a target location—the first step in our project should be to define a discretized path through the relevant environment.
+### 2. Navigating through the environment:
+This step focuses on navigating the robot through the environment to capture images of surrounding objects. The process is carried out using the control scheme described in https://DSFCHIMERJDS.com.
