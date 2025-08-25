@@ -60,4 +60,4 @@ Furthermore, the frequency spectrum of the filtered signal confirms the successf
 number of generations required and increase the likelihood of successfully reaching 
 the global minimum. Luckily, this initial guess is taken to be a preliminary solution 
 for the genetic algorithm from previous practical endeavors to find the interior parameters of the mechanical and electrical parts. Through this formulation, the **Genetic Algorithm (GA)** converges to an optimal solution. The GA’s hyperparameters are carefully preset and tuned to minimize the loss function, leading to a sharp decline that reaches the **lowest global minimum value of 0.1189 within 782 generations**, as shown in the following Table and figure: <br>
-  <img width="1506" height="978" alt="Trainingpng" src="https://github.com/user-attachments/assets/44f74b49-1026-48fa-b1b8-90ed5fa9064f" />
+  <img width="1204" height="782" alt="Trainingpng" src="https://github.com/user-attachments/assets/44f74b49-1026-48fa-b1b8-90ed5fa9064f" />
