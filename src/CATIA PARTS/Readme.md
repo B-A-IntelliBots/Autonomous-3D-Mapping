@@ -1,6 +1,6 @@
 # Robot Design – CATIA Parts
 
-This repository contains all the **CATIA (.CATPart)** files for the design of my mobile robot.
+This Folder contains all the **CATIA (.CATPart)** files for the design of my mobile robot.
 ---
 
 ## 🛠️ Design Overview
