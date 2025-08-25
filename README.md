@@ -94,7 +94,7 @@ This step involves constructing a 3D virtual model of the indoor environment usi
 ---
 
 ## 📊 Results & Benchmarks
-This section presents the performance of the proposed **System State-Space Identification** method using MATLAB’s *System Identification Toolbox* in combination with a Genetic Algorithm (GA).
+the performance of the proposed **System State-Space Identification** method—using MATLAB’s *System Identification Toolbox* in combination with a Genetic Algorithm (GA)—is validated according to the following criteria:
 
 #### 🔹 1. Loss / Error Metrics
 
@@ -113,10 +113,10 @@ Quantitative performance is evaluated using:
 ---
 
 ## 📁Project Structure
-├── [src](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/src)/  # Core codes with the CATIA-designed components of the robot <br>
+├── [src](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/src)/  # Core codes with the robot CATIA-designed components <br>
 ├── [data](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/data)/ # Sample datasets <br>
 ├── [results](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/results)/    # Plots and evaluation metrics <br>
-├── docs/       # Project documentation <br>
+├── [docs](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/docs)/       # Project documentation <br>
 ├── README.md   # This file <br>
 
 ---
