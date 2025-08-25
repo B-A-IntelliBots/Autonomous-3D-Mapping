@@ -120,7 +120,6 @@ Quantitative performance is evaluated using:
 ├── [src](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/src)/  # Core codes with the robot CATIA-designed components <br>
 ├── [data](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/data)/ # Sample datasets <br>
 ├── [results](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/results)/    # Plots and evaluation metrics <br>
-├── [docs](https://github.com/B-A-IntelliBots/Autonomous-3D-Mapping/tree/main/docs)/       # Project documentation <br>
 ├── README.md   # This file <br>
 
 ---
