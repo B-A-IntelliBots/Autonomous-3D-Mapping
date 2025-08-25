@@ -2,6 +2,7 @@
 
 This section demonstrates how to identify and remove high-frequency noise from a sampled signal using MATLAB. The workflow involves:
 ---
+
 ## 1. Noise Detection Using FFT
 To locate the source of noise in the signal, the raw signal is analyzed using its frequency spectrum. 
 High-frequency components indicate the presence of noise.  
@@ -10,17 +11,7 @@ High-frequency components indicate the presence of noise.
 ---
 ## 2. Design the Customized FIR filter
 
-The FIR filter used in this project was designed using MATLAB's **Filter Design & Analysis Tool (fdatool)** with the following specifications:
-- **Filter Type:** Lowpass FIR  
-- **Design Method:** Equiripple  
-- **Filter Order:** 42  
-- **Passband Frequency (`wp`):** 0.031 (normalized 0–1)  
-- **Stopband Frequency (`ws`):** 0.2 (normalized 0–1)  
-- **Passband Ripple (`Apass`):** 1 dB  
-- **Stopband Attenuation (`Astop`):** 120 dB  
-- **Stability:** Yes (Direct-Form FIR)
-
-<img width="1366" height="697" alt="FIR_Specs" src="https://github.com/user-attachments/assets/d2a698d8-0655-4310-ac56-e260bcf2c3ff" />
+The FIR filter used in this project was designed using MATLAB's **Filter Design & Analysis Tool (fdatool)**. The design is customized to ensure the preservation of the DC component and its nearby frequency responses, while attenuating undesired higher frequencies.
 
 ---
 ## 3. FIR Filtering and Validation
