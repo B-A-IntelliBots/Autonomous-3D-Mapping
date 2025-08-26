@@ -2,7 +2,7 @@
 
 # Autonomous-3D-Mapping
 ![](https://img.shields.io/badge/v2014a-green?style=plastic&label=MATLAB&labelColor=black&color=blue)
-![](https://img.shields.io/badge/V5R21-blue?style=plastic&label=CATIA&labelColor=rgba(13%2C%2014%2C%2087%2C%200.98)&color=blue)
+![](https://img.shields.io/badge/V5R21-blue?style=plastic&logo=dassaultsystemes&label=CATIA&labelColor=rgba(13%2C%2014%2C%2087%2C%200.98)&color=blue)
 ![](https://img.shields.io/badge/v3.11-green?style=plastic&logo=python&label=Python3&labelColor=black&color=green)
 ![](https://img.shields.io/badge/noetic-green?style=plastic&logo=ROS&label=ROS&labelColor=blue&color=green)
 ![](https://img.shields.io/badge/v%202.3.6-green?style=plastic&logo=arduino&label=Arduino&labelColor=blue&color=green)
