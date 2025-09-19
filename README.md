@@ -1,6 +1,7 @@
 <div align="center">
 
 # Autonomous-3D-Mapping
+![](https://img.shields.io/badge/License-Apache%202.0-blue?style=plastic&link=https%3A%2F%2Fopensource.org%2Flicense%2Fapache-2-0)
 ![](https://img.shields.io/badge/v2014a-green?style=plastic&label=MATLAB&labelColor=black&color=blue)
 ![](https://img.shields.io/badge/V5R21-blue?style=plastic&logo=dassaultsystemes&label=CATIA&labelColor=rgba(13%2C%2014%2C%2087%2C%200.98)&color=blue)
 ![](https://img.shields.io/badge/v3.11-green?style=plastic&logo=python&label=Python3&labelColor=black&color=green)
